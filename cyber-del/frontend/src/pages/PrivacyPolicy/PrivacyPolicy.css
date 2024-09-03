@@ -1,0 +1,39 @@
+.pp{
+    height: 70px;
+    
+}
+.privacypolicy{
+   display: flex;
+}
+.details{
+    padding-top: 20px;
+    padding-left: 80px;
+}
+.privacy{
+    padding-top: 13px;
+}
+.details p{
+    padding-top: 20px;
+    font-style: italic;
+    letter-spacing: 0.1vh;
+    font-size: 18px;
+}
+.details li{
+    padding-top: 10px;
+    padding-left: 10px;
+    font-style: italic;
+    letter-spacing: 0.1px;
+    font-size: 18px;
+}
+.details .pd{
+    padding-top: 20px;
+    padding-bottom: 50px;
+    font-size: 18px;
+}
+.policy hr{
+    width: 100%;
+    height: 2px;
+    margin: 20px 0px;
+    background-color: black;
+    border: black;
+}
